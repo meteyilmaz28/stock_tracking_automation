@@ -20,7 +20,7 @@ Install dependencies:
 pip install PyQt5 openpyxl
 
 Clone the project:
-git clone [https://github.com/your_username/inventory-tracking.git](https://github.com/meteyilmaz28/stock_tracking_automation.git)
+git clone [https://github.com/meteyilmaz28/stock_tracking_automation.git](https://github.com/meteyilmaz28/stock_tracking_automation.git)
 cd inventory-tracking
 Run the application:
 
